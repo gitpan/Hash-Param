@@ -19,8 +19,8 @@ requires:
   Carp::Clan: 0
   Hash::Slice: 0.03
   Moose: 0
-  MooseX::MakeImmutable: 0
+  MooseX::MakeImmutable: 0.02
 resources:
   license: http://dev.perl.org/licenses/
   repository: http://github.com/robertkrimen/hash-param/tree/master
-version: 0.03
+version: 0.04
